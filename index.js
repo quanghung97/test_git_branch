@@ -4,7 +4,11 @@ app.use(express.static("public"));
 app.set("view engine", "ejs");
 app.set("views", "./views");
 app.listen(3000);
+<<<<<<< HEAD
 //trash aa
+=======
+//trash aaaaaa
+>>>>>>> a
 app.get("/", function(req, res){
    res.render("trangchu");
 });
