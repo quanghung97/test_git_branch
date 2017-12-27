@@ -1,6 +1,6 @@
 //var React = require('react');
 //var createReactClass = require('create-react-class');
-
+//trash b
 
 var QuangHung = React.createClass({
     render: function(){
