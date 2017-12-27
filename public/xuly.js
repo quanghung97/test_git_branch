@@ -1,7 +1,12 @@
 //var React = require('react');
 //var createReactClass = require('create-react-class');
+<<<<<<< HEAD
 //trash b
 
+=======
+
+//trash b
+>>>>>>> b
 var QuangHung = React.createClass({
     render: function(){
         return(
